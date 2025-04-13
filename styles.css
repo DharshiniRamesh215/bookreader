@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #d6bfd5;
+    color: #333;
+  }
+  
+  header {
+    background-color: #71166d;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  main {
+    padding: 2rem;
+    max-width: 1000px;
+    margin-right: 1000px;
+  }
+  img{
+    margin-right: 30px;
+  }
+  img
+  {
+    image-orientation: from-image;
+  }
+  
+  
+  button{
+    background-color: #f12424;
+    border-radius: 5%;
+    border: #f12424;
+    padding: 10px;
+    text-align: center;
+    padding-right:100px ;
+    font-size: medium;
+    margin-trim: 50px;
+  }
+  button{
+    background-color: #f12424;
+    border-radius: 5%;
+    border: #f12424;
+    padding: 10px;
+    text-align: center;
+    padding-right:101px ;
+    font-size: medium;
+    margin-right: 30px;
+  }
+  img{
+    padding-top: 30px;
+  }
+
+  
+  ul#book-list li:hover {
+    background-color: #e6f0ff;
+  }
+  
+  #reader {
+    margin-top: 2rem;
+    padding: 1rem;
+    background: #fff;
+    border: 1px solid #ccc;
+    display: none;
+  }
+  
+  pre {
+    white-space: pre-wrap;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  
